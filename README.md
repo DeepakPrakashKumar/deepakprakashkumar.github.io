@@ -1,4 +1,4 @@
-## Deepak Portfolio
+## Deepak's Portfolio
 Portfolio website showcasing my projects, experience, leadership, awards, and publications.
 
 <a href="https://deepakprakashkumar.github.io/" target="_blank">**Click here** 🚀</a>
