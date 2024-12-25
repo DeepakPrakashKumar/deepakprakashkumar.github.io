@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Path Planning", "Autonomous Applications", "Task Allocation", "Robotics"],
+    strings: ["Autonomous Vehicle Applications", "Path Planning", "Task Allocation", "Robotics"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
