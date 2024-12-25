@@ -59,19 +59,19 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | Deepak";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            document.title = "Portfolio | Deepak";
+            $("#favicon").attr("href", "assets/images/favicon.png");
         }
     });
 
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Path Planning", "Autonomous Applications", "Mission Planning", "Robotics"],
+    strings: ["Path Planning", "Autonomous Applications", "Task Allocation", "Robotics"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
